@@ -1,0 +1,23 @@
+.rakib-btn {
+    padding: 20px 40px;
+    font-size: 2rem;
+    font-weight: bold;
+    background: red;
+    color: white;
+}
+
+.rakib-btn-blue {
+    padding: 20px 40px;
+    font-size: 2rem;
+    font-weight: bold;
+    background: blue;
+    color: white;
+}
+
+.rakib-btn-green {
+    padding: 20px 40px;
+    font-size: 2rem;
+    font-weight: bold;
+    background: green;
+    color: white;
+}
